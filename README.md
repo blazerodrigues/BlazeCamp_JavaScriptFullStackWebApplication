@@ -1,4 +1,4 @@
-# BlazeCamp_JavascriptWebApp
+# BlazeCamp - JavaScript Full Stack Web Application
 
 
 Home page of the web application running on localhost.
