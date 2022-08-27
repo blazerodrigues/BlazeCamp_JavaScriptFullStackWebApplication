@@ -1,7 +1,7 @@
 # BlazeCamp - JavaScript Full Stack Web Application
 
 
-Home page of the web application running on localhost.
+Home page of the web application running on localhost. 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/96373227/162589017-b17b8fb3-c744-479b-9706-a9ce734b8bcb.png">
 
 
